@@ -14,7 +14,7 @@ In this section, the application allows users to select a stock from a dropdown 
 
 1. **Stock Chart Page:**
 
-   ![Stock Chart Page](.Q1/screenshots/stock_chart_page.png)
+   ![Stock Chart Page](Q1/screenshots/stock_chart_page.png)
    _This screenshot demonstrates the Stock Chart page where users can select a stock and view its price history._
 
 ## Question 2: Average Calculator HTTP Microservice
@@ -27,7 +27,7 @@ The API ensures that if the window size is breached, the oldest number is replac
 
 1. **Average Calculator Service in Action:**
 
-   ![Average Calculator Service](./screenshots/average_calculator_service.png)
+   ![Average Calculator Service](Q1/screenshots/average_calculator_service.png)
    _This screenshot shows the Average Calculator HTTP microservice running and processing requests to calculate averages._
 
 ## Installation
